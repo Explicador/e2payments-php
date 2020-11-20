@@ -1,0 +1,27 @@
+{
+    "name": "joseseie/e2payments-php",
+    "description": "Pacote de instalação de e2Payments no PHP",
+    "keywords": [
+        "composer-plugin",
+        "mpesa-sdk",
+        "mpesa-api",
+        "mpesa",
+        "payments",
+        "vodacom-mozambique",
+        "payment-gateway",
+        "api",
+        "e2payments"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jose Seie",
+            "email": "joseseie@explicador.co.mz"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "guzzlehttp/guzzle": "^7.2"
+    }
+}
