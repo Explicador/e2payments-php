@@ -29,5 +29,7 @@
         "psr-4": {
             "E2Payments\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
