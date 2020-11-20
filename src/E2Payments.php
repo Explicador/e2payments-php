@@ -64,7 +64,7 @@ class E2Payments
             'http_errors' => false
         ]);
 
-        //TODO: Por validar erros
+        //TODO: Por validar os dados e tratar erros
 
         return json_decode($response->getBody());
     }
