@@ -1,5 +1,5 @@
 {
-    "name": "joseseie/e2payments-php",
+    "name": "explicador/e2payments-php",
     "description": "Pacote de instalação de e2Payments no PHP",
     "keywords": [
         "composer-plugin",
@@ -16,8 +16,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Jose Seie",
-            "email": "joseseie@explicador.co.mz"
+            "name": "Explicador Inc, LDA",
+            "email": "developer@explicador.co.mz"
         }
     ],
     "require": {
