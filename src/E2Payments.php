@@ -25,7 +25,7 @@ class E2Payments
             "client_secret" => $this->client_secret,
         ];
 
-        $response = $client->post('POST', '/oauth/token', [
+        $response = $client->post('/oauth/token', [
             "headers" => [],
             'json' => $requestTokenBody,
         ]);
